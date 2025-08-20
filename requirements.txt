@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-chroma
+langgraph
+PyGithub
+GitPython
+sentence-transformers
+chromadb
+pydantic
+pathlib
+hashlib
+datetime
+enum34
+huggingface-hub
